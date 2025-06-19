@@ -8,7 +8,7 @@ const config = {
   },
   "realtor": {
     "fullName": "Georgia Spratt-Mallick",
-    "title": "REALTOR®",
+    "title": "The Rise Realty Group",
     "phone": "519-209-2721",
     "email": "georgia@theriserealtygroup.ca",
     "bio": "Rise Realty Group was established with one core principle in mind: to provide the best real estate experience possible. ‘Raising expectations’ is our tagline and mission. With 20+ years’ experience and a deep commitment to our community, we guide you clearly through every real estate decision. Redefining service and building lasting relationships, we’re here to raise your expectations.",
