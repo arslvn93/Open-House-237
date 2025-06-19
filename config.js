@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "88 Foxborough Drive",
     "city": "Ancaster",
     "cityStateZip": "Ancaster, ON L9G 4Z1",
-    "heroSubtitle": "Top School Districts, quiet area, and a true family home on a quiet, mature street. Prime location in one of the area’s best neighbourhoods. Register to receive the complete Home & Neighbourhood Info Package, listing details, floor plan, and photos, don't miss out on this beautiful property!",
+    "heroSubtitle": "Top School Districts, quiet area, and a true family home on a quiet, mature street. Prime location in one of the area’s best neighbourhoods. Register to receive the complete Home & Neighbourhood Info Package, listing details, floor plan, and photos.",
     "backgroundImageUrl": "https://api.typeform.com/responses/files/ec0b6284ae6258417f0ef84cf95ac1049337fa86fa5dde605dee529ae8f934d0/8_web_or_mls_08.jpeg"
   },
   "realtor": {
@@ -12,7 +12,7 @@ const config = {
     "phone": "519-209-2721",
     "email": "georgia@theriserealtygroup.ca",
     "bio": "Rise Realty Group was established with one core principle in mind: to provide the best real estate experience possible. ‘Raising expectations’ is our tagline and mission. With 20+ years’ experience and a deep commitment to our community, we guide you clearly through every real estate decision. Redefining service and building lasting relationships, we’re here to raise your expectations.",
-    "photoUrl": "https://ibb.co/gLWktH0q",
+    "photoUrl": "https://i.ibb.co/xtgxzPn9/Georgia-Spratt-Mallick.png",
     "social": {
       "facebook": "https://www.facebook.com/theriserealtygroup/",
       "instagram": "https://www.instagram.com/theriserealtygroup/",
