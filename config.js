@@ -42,7 +42,7 @@ const config = {
     ]
   },
   "meta": {
-    "pageTitlePrefix": "🏡 Georgia Spratt-Mallick Open House",
+    "pageTitlePrefix": "🏡 88 Foxborough Drive Open House",
     "navBrandLogoText": "OPEN HOUSE",
     "privacyPolicyLink": "https://theriserealtygroup.ca/"
   },
