@@ -135,7 +135,7 @@ const config = {
     "repoName": "Open-House-237",
     "repoUrl": "https://github.com/arslvn93/Open-House-237",
     "tag": "Open House 88 Foxborough Drive",
-    "netlifyUrl": "",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/Vud9IvQgadBxXiYKXAnX/webhook-trigger/Xpxt48M9IoSkLw8u6veV",
     "siteId": "18827860-cc5e-40bf-8217-b0e42ba43b46"
   }
 };
