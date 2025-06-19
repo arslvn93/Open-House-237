@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "88 Foxborough Drive",
     "city": "Ancaster",
     "cityStateZip": "Ancaster, ON L9G 4Z1",
-    "heroSubtitle": "Top School Districts, quiet area, and a true family home on a quiet, mature street. Prime location in one of the area’s best neighbourhoods. Register to receive the complete Home & Neighbourhood Info Package, listing details, floor plan, and photos.",
+    "heroSubtitle": "Top School Districts, quiet area, and a true family home on a quiet, mature street. Prime location in one of the area’s best neighbourhoods. Register to receive the complete Home & Neighbourhood Info Package, listing details, floor plan, and photos, don't miss out on this beautiful property!",
     "backgroundImageUrl": "https://api.typeform.com/responses/files/ec0b6284ae6258417f0ef84cf95ac1049337fa86fa5dde605dee529ae8f934d0/8_web_or_mls_08.jpeg"
   },
   "realtor": {
