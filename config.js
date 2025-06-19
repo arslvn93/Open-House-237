@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "88 Foxborough Drive",
     "city": "Ancaster",
@@ -102,6 +102,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-237",
     "tag": "Open House 88 Foxborough Drive",
     "netlifyUrl": "",
-    "siteId": "1005119222"
+    "siteId": "18827860-cc5e-40bf-8217-b0e42ba43b46"
   }
-}
+};
